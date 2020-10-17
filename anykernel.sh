@@ -15,7 +15,7 @@ device.name2=PocoF1
 device.name3=polaris
 device.name4=dipper
 device.name5=equuleus
-supported.versions=10,10.0
+supported.versions=11,11.0
 supported.patchlevels=
 '; } # end properties
 
